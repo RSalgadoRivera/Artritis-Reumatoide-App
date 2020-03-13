@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtReu</string>
+    <string name="ima">Imagen</string>
+    <string name="f1">Fuerza 1</string>
+    <string name="f2">Fuerza 2</string>
+    <string name="age">Edad</string>
+    <string name="select">Seleccionar</string>
+    <string name="diag">Diagnosticar</string>
+</resources>
